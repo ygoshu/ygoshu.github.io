@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+gem "github-pages", group: :jekyll_plugins
+
+logo: /assets/img/face.png
+
+title: Yordanos Goshu
+
+description: Core Machine Learning Team @GoldmanSachs. Masters and Undergrad in computer science @Cornell. Bill Gates, Robert F. Smith, Posse, and Marx Senior Fellow. 
