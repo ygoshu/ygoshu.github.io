@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
 
-logo: /assets/img/face.png
+logo: /assets/img/faces.png
 
 title: Yordanos Goshu
 
