@@ -38,10 +38,11 @@ Interpolative AutoEncoders for Unsupervised Few-Shot Image Generation
 
 ## Awards and Honors!
 
-* Bill Gates
-* Robert F. Smith
-* Posse Scholar
-* Marx Senior Fellow
+* [Bill Gates Millenium Scholar](https://gmsp.org/) 
+* [Robert F. Smith Tech Fellow](./rfs)
+* [Posse Scholar](https://www.possefoundation.org/about-posse)
+* [Marx Senior Fellow](http://www.cs.cornell.edu/Ugrad/Marx2000.html#Marx)
+* [University of Chicago Collegiate Scholar](https://collegiatescholars.uchicago.edu/)
 
 # Let's Connect
 [Resume](./Goshu_Yordanos_20.pdf)
