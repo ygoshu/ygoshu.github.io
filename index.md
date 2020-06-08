@@ -2,17 +2,28 @@
 layout: default
 ---
 
+I am incoming **Machine Learning Engineer** on Goldman Sach's Core Machine Learning team. The team of seven is led by Professor Charles Elkan. I received my B.A. and M. Eng from Cornell University in computerscience. 
+
+My current interests broadly lie in deploying machine learning applications at scale. Some applications of ML that are of interest to me are computer vision, recommendation systems, and finance. My most recent work explores work in few-shot image generation, adverserial training, few-shot text generation, and recommendation frameworks. 
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+## Publication
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Interpolative AutoEncoders for Unsupervised Few-Shot Image Generation 
+[[Paper](./another-page.html)]
 
-# Header 1
+## Start ups
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Intelimed](./another-page.html).
+
+[]
+
+[TimeMate](./another-page.html)
+
+
 
 ## Header 2
 
