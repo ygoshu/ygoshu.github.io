@@ -15,12 +15,25 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 Interpolative AutoEncoders for Unsupervised Few-Shot Image Generation 
 (Submitted to ECCV 2020)  
 
+
+## Contributions to papers and projects
+
+* OpenRec
+  * [paper](https://openrec.ai/)
+  * [code](https://github.com/ygoshu/openrec)
+* Adverserial Training
+  * [paper](https://arxiv.org/abs/1911.09058)
+  * [code](https://github.com/ygoshu/HidingInStyle)
+* Few-shot text generation
+  * [paper](./Few_Shot_Text_Generation.pdf)
+  * [code](https://github.com/ygoshu/FewShotTextGen)
+
 ## Start ups
 
 * [Intelimed](https://ziyuqiu.github.io/IntelliCode/)
-* [Datalogue](http://buildboard-10044.cornelltech.io/fall-2019/team_pages/F19-T021.html)
 * [VRMath](https://sites.google.com/cornell.edu/cs5650-projects-2019/projects/vrmath?authuser=0)
-* [TimeMate]
+* [Datalogue - Product Studio](http://buildboard-10044.cornelltech.io/fall-2019/team_pages/F19-T021.html)
+* [TimeMate](https://github.com/rdeeban/TimeMate)
 
 * * *
 ### Welcome!
