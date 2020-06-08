@@ -13,12 +13,14 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ## Publication
 
 Interpolative AutoEncoders for Unsupervised Few-Shot Image Generation 
-[[Paper](./another-page.html)] (Submitted to ECCV 2020)  
+(Submitted to ECCV 2020)  
 
 ## Start ups
 
-* [Intelimed](./another-page.html)
-* [TimeMate](./another-page.html)
+* [Intelimed](https://ziyuqiu.github.io/IntelliCode/)
+* [Datalogue](http://buildboard-10044.cornelltech.io/fall-2019/team_pages/F19-T021.html)
+* [VRMath](https://sites.google.com/cornell.edu/cs5650-projects-2019/projects/vrmath?authuser=0)
+* [TimeMate]
 
 * * *
 ### Welcome!
