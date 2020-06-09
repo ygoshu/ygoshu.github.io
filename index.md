@@ -58,6 +58,7 @@ Additionally, I enjoy playing and watching both soccer (Barcelona!) and basketba
 
 # Let's Connect
 You can reach me directly at _yag3@cornell.edu_
+
 [Resume](./Goshu_Yordanos_20.pdf)
 [LinkedIn](https://www.linkedin.com/in/yordanos-goshu-b3361aa3/)
 [Twitter](https://twitter.com/GoshuYordanos)
