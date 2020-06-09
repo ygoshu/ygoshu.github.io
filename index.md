@@ -14,11 +14,11 @@ Interpolative AutoEncoders for Unsupervised Few-Shot Image Generation
 
 ## Work Experience 
 
-Machine Learning Engineer, Goldman Sachs, 07/20-Present
+Machine Learning Engineer, Goldman Sachs, 07/20 - Present
 
-Software Engineer, Goldman Sachs, 07/18-08/19
+Software Engineer, Goldman Sachs, 07/18 - 08/19
 
-Software Engineer Intern, Facebook, 06/17-08/19
+Software Engineer Intern, Facebook, 06/17 - 08/19
 
 ## Contributions to papers and projects
 
