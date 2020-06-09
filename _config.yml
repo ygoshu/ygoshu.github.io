@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
 logo: /assets/img/faces.png
 title: Yordanos Goshu
-description: Machine Learning Engineer Goldman Sachs. B.A. and M.Eng in Computer Science from Cornell 
+description: Machine Learning Engineer Goldman Sachs | B.A. and M.Eng in Computer Science from Cornell | yag3@cornell.edu 
 show_downloads: false
 google_analytics: UA-167872893-1
