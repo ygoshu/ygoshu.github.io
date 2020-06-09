@@ -49,6 +49,13 @@ Software Engineer Intern, Facebook, 06/17 - 08/19
 * [Marx Senior Fellow](http://www.cs.cornell.edu/Ugrad/Marx2000.html#Marx)
 * [University of Chicago Collegiate Scholar](https://collegiatescholars.uchicago.edu/)
 
+## Extracurricular
+
+I have devoted a lot of my non-engineering efforts to diversity initiatives throughout my professional career. I founded [Underrepresented Minorities in Computing](https://urmc-website.herokuapp.com/), which became a driving force of increasing minority entrance and retention in the computer science department at Cornell. Our supporters include many large tech firms and the CS department. I additionally was a section leader in [/dev/color](https://www.devcolor.org/), an organization that aims to empower Black software engineers to help one another grow into industry leaders. 
+
+Additionally, I enjoy playing soccer (Barcelon!) and basketball (Chicago Bulls). I am also a huge F1 racing fan.
+
+
 # Let's Connect
 You can reach me directly at _yag3@cornell.edu_
 [Resume](./Goshu_Yordanos_20.pdf)
