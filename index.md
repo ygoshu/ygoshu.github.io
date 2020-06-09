@@ -9,7 +9,7 @@ My current interests broadly lie in deploying machine learning applications at s
 ## Publication
 
 Interpolative AutoEncoders for Unsupervised Few-Shot Image Generation 
-(Submitted to ECCV 2020)  
+[paper] [code] (In Review for ECCV 2020. Paper and code coming soon)  
   Davis Wertheimer, Omid Poursaeed, Yordanos Abraham Goshu, Bharath Hariharan
 
 ## Work Experience 
