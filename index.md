@@ -38,10 +38,10 @@ Software Engineer Intern, Facebook, 06/17 - 08/19
 
 ## Start ups
 
-* [Intelimed](https://ziyuqiu.github.io/IntelliCode/)
-* [VRMath](https://sites.google.com/cornell.edu/cs5650-projects-2019/projects/vrmath?authuser=0)
-* [Datalogue - Product Studio](http://buildboard-10044.cornelltech.io/fall-2019/team_pages/F19-T021.html)
-* [TimeMate](https://github.com/rdeeban/TimeMate)
+* [Intelimed [Growth] ](https://ziyuqiu.github.io/IntelliCode/)
+* [VRMath [Founder]](https://sites.google.com/cornell.edu/cs5650-projects-2019/projects/vrmath?authuser=0)
+* [Datalogue - Product Studio [CTO]](http://buildboard-10044.cornelltech.io/fall-2019/team_pages/F19-T021.html)
+* [TimeMate [Founder]](https://github.com/rdeeban/TimeMate)
 
 * * *
 
