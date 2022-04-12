@@ -9,11 +9,11 @@ My current interests broadly lie in deploying machine learning applications at s
 ## Publication
 
 Fine-grained Synthesis of Unrestricted Adversarial Examples
-[paper] [code] (In Review for ICLR 2021. Paper and code coming soon)  
+[paper] [code] (Rejected for ICLR 2021. Paper and code coming soon)  
   Omid Poursaeed, Tianxing Jiang, Yordanos Abraham Goshu, Harry Yang, Serge Belongie, Ser-Nam Lim
 
 Interpolative AutoEncoders for Unsupervised Few-Shot Image Generation 
-[paper] [code] (In Review for ECCV 2020. Paper and code coming soon)  
+[paper] [code] (Rejected for ECCV 2020. Paper and code coming soon)  
   Davis Wertheimer, Omid Poursaeed, Yordanos Abraham Goshu, Bharath Hariharan
 
 ## Work Experience 
