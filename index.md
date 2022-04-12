@@ -4,7 +4,7 @@ layout: default
 
 I am a **Machine Learning Engineer** at Goldman Sach's Machine Learning Modeling team. The team of seven is led by Professor Charles Elkan. I received my B.A. and M. Eng from Cornell University in computer science. My undergraduate research was advised by Professor Deborah Estrin in her [Small Data Lab](https://smalldata.io/) . My graduate research was advised by Professor Serge Belongie in his [SE3](https://vision.cornell.edu/se3/people/serge-belongie) computer vision lab. 
 
-My current interests broadly lie in deploying machine learning applications at scale. Some applications of ML that are of interest to me are computer vision, recommendation systems, and finance. My most recent work explores work in few-shot image generation, adverserial training, few-shot text generation, and recommendation frameworks. Productizing my work has always been of interest to me. On the product end, I've explored and built products including the Grammarly for doctors, a VR based classorm, and natural language queries of large unorganized datasets. 
+My current interests broadly lie in deploying machine learning applications at scale. Some applications of ML that are of interest to me are computer vision, recommendation systems, and finance. My most recent work explores work in detecting anomalies in unsupervised settings at scale, few-shot image generation, adverserial training, few-shot text generation, and recommendation frameworks. Productizing my work has always been of interest to me. On the product end, I've explored and built products including the Grammarly for doctors, a VR based classorm, and natural language queries of large unorganized datasets. I am currently building an ML driven scalable time series data monitoring platform. 
 
 ## Publication
 
@@ -38,6 +38,7 @@ Software Engineer Intern, Facebook, 06/17 - 08/19
 
 ## Start ups
 
+* [Data Sentinel [CTO] ](https://www.goldmansachs.com/about-us/culture-of-innovation/gs-accelerate/)
 * [Intelimed [Growth] ](https://ziyuqiu.github.io/IntelliCode/)
 * [VRMath [Founder]](https://sites.google.com/cornell.edu/cs5650-projects-2019/projects/vrmath?authuser=0)
 * [Datalogue - Product Studio [CTO]](http://buildboard-10044.cornelltech.io/fall-2019/team_pages/F19-T021.html)
